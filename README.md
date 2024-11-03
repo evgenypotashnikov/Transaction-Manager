@@ -31,5 +31,5 @@ Transaction Manager is a simple command application for managing financial trans
 - [Evgeny Potashnikov](https://github.com/evgenypotashnikov)
 
 ## License
-
+Project GoTo-Apps.TransactionManager is distributed under the MIT license.
 
