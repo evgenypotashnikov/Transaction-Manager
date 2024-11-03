@@ -12,7 +12,7 @@
 Transaction Manager is a simple command application for managing financial transactions. It allows you to create new transactions, view the balance, income and expenses, and search for transactions by various criteria such as date, category and amount. The application provides a user-friendly interface for entering data and displaying results, which makes it a useful tool for personal financial management.
 
 ## Documentation
-## Launching the application
+### Launching the application
 After downloading the repository, run the **`main.py`** file using the command **`python main.py`**.
 
 ### Method
