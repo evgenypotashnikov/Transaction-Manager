@@ -15,7 +15,7 @@ Transaction Manager is a simple command application for managing financial trans
 ### Launching the application
 After downloading the repository, run the **`main.py`** file using the command **`python main.py`**.
 
-### Method
+### Methods
 - **`create_new_transaction`** - The user can create a new transaction by specifying the date, category, amount, and description.
 - **`balance`** - The user can view the current balance, which is calculated as the difference between income and expenses.
 - **`income`** - The user can view the total amount of income.
